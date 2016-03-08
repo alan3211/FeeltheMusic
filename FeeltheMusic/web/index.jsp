@@ -1,7 +1,7 @@
 <%-- 
-    Document   : index
-    Created on : 7/03/2016, 08:16:37 PM
-    Author     : Alan32
+    Document : Inicio de la pagina Feel the Music 
+    Created on : 8/03/2016, 5:00 PM
+    Author: Alan Hernandez 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
