@@ -8,10 +8,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <meta name="author" content="Team Rocket">
+        <meta name="description" content="Feel the music">
+        <meta name="keywords" content="Team Rocket-FeeltheMusic">
+        <title>Feel-the-Music</title>
+        <link href="./css/estilos.css" rel="stylesheet" type="text/css"/>        
     </head>
     <body>
-        <h1>Aqui realizaremos todo con JSP</h1>
+            
     </body>
 </html>
