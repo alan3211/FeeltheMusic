@@ -33,8 +33,10 @@
                     canciones de tus artistas favoritos.                
             </p>               
             <br>            
-            <br>            
-            <button id="acepta" onclick="login">COMENZAR</button>
+            <br>
+            <form action="login.jsp" method="POST">
+            <button id="acepta" type="submit" >COMENZAR</button>
+            </form>
             <br>
             <br>
         </section>
