@@ -11,6 +11,7 @@
         <meta name="author" content="Team Rocket">
         <meta name="description" content="Feel the music">
         <meta name="keywords" content="Team Rocket-FeeltheMusic">
+        <meta charset="utf-8">
         <title>Feel-the-Music</title>
         <link href="./css/estilos.css" rel="stylesheet" type="text/css"/>        
     </head>
@@ -27,8 +28,8 @@
         <br>
         <section>
             <p>
-                    Una p&aacute;gina dise&ntilde;ada para ti.<br>
-                    Escucha m&uacute;sica  gratis o compra<br>
+                    Una página diseñada para ti.<br>
+                    Escucha música gratis o compra<br>
                     canciones de tus artistas favoritos.                
             </p>               
             <br>            
