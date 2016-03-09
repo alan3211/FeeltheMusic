@@ -14,7 +14,7 @@
         <title>Buscar Música</title>
     </head>
     <body>
-        <div id="Buscar">
+        <div id="Contenedor">
          <br>
             <br>
             <header>            
