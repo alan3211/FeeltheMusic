@@ -28,7 +28,7 @@
             <form method="POST" action="#" name="siguiente">
                 <br>               
                 <span class="user">USUARIO: </span> <input type="text" id="usuario">
-                <a href="#"><img alt="bocina" src="IconosMusic/sound.png" id="bocina"></a><br>
+                <a href="#"><img alt="bocina" src="IconosMusic/sound.png" class="bocina"></a><br>
                 <span class="user">CONTRASE&Ntilde;A: </span> <input type="password" id="pass"> <br>
                 <input type="submit" id="aceptar" value="Aceptar">
                 <br>
