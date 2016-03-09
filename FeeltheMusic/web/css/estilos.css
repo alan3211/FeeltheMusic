@@ -1,9 +1,9 @@
 body{
-     background: #000;    
+    background: #000;    
 }
 
 #contenedorlogin{
-     margin: 0 auto;
+    margin: 0 auto;
     padding: 0 auto;
     width: 1366px;
     height: 900px;       
@@ -31,9 +31,9 @@ body{
     padding: 0 auto;
     width: 1366px;
     height: 900px;       
-   background-image:url("../IconosMusic/fondo6.jpeg");    
-   color: #FFF; 
-   background-repeat: no-repeat;       
+    background-image:url("../IconosMusic/fondo6.jpeg");    
+    color: #FFF; 
+    background-repeat: no-repeat;       
 }
 
 #Buscar{
@@ -41,9 +41,9 @@ body{
     padding: 0 auto;
     width: 1366px;
     height: 900px;       
-   background-image:url("../IconosMusic/fondo6.jpeg");    
-   color: #FFF; 
-   background-repeat: no-repeat;       
+    background-image:url("../IconosMusic/fondo6.jpeg");    
+    color: #FFF; 
+    background-repeat: no-repeat;       
 }
 
 header p{
@@ -55,7 +55,7 @@ header p{
     width: 800px;
     height: 130px;
     margin: 0 auto;
-     border-bottom-color: #FFF; 
+    border-bottom-color: #FFF; 
     border-top-color: #FFF;
     border-bottom-style: solid;
     border-top-style: solid;    
@@ -70,7 +70,7 @@ header p{
     width: 300px;
     height: 50px;
     margin: 0 auto;
-    
+
 }
 
 footer{
@@ -81,12 +81,12 @@ footer{
 }
 
 footer img{
-     width: 50px;
-     height: 50px;
+    width: 50px;
+    height: 50px;
 }
 .red{
-     width: 40px;
-     height: 40px;
+    width: 40px;
+    height: 40px;
 }
 footer p{
     font-family: "Arial";
@@ -113,21 +113,38 @@ section{
     background: #FEA813;
 }
 
+.encabezadoR{
+    background-color: #242426;
+    font-family: "Miso Light";
+}
+.formularioR{
+    color: #000;
+    text-align: center;
+}
+.labelR{
+    text-align: right;
+}
+#encabezadoRegistro{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
 /*Fuente Miso Light*/
 @font-face {
     font-family:"Miso Light";
     src:url("miso-light.eot?") 
-   format("eot"),url("miso-light.woff") 
-   format("woff"),url("miso-light.ttf") 
-   format("truetype"),url("miso-light.svg#Miso-Light") 
-   format("svg");
+        format("eot"),url("miso-light.woff") 
+        format("woff"),url("miso-light.ttf") 
+        format("truetype"),url("miso-light.svg#Miso-Light") 
+        format("svg");
     font-weight:normal;
     font-style:normal;
 }
 /*Arial Rounded*/
 @font-face {
-font-family: 'Arial Rounded MT Bold';
-font-style: normal;
-font-weight: normal;
-src: local('Arial Rounded MT Bold'), url('ARLRDBD_0.woff') format('woff');
+    font-family: 'Arial Rounded MT Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arial Rounded MT Bold'), url('ARLRDBD_0.woff') format('woff');
 }
