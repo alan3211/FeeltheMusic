@@ -1,4 +1,23 @@
 body{
-    background-image:url("../IconosMusic/fondo6.jpg");      
+    background-image:url("../IconosMusic/fondo6.jpg");    
+   color: #FFF;
+}
+
+footer{
+    background: #242426;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+footer img{
+     width: 50px;
+     height: 50px;
+}
+
+section{
+    font-family: "Century Gothic";
+    text-align: center;
+    font-size: 50px;
 }
 
