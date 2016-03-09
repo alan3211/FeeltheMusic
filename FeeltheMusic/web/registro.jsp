@@ -14,8 +14,8 @@
     </head>
     <body style="background: #FFF;">
         <div id="Contenedor" style="background-image: none;">
-            <div class="encabezado">Feel the music</div>
-            <div class="formulario">
+            <div class="encabezadoR">Feel the music</div>
+            <div class="formularioR">
                 <div id="encabezadoRegistro" align="center"> 
                     <hr>
                     <p>Registro</p>
@@ -24,36 +24,36 @@
                 <form action="servletRegistro" method="post">
                     <table style="margin: auto;">
                         <tr>
-                            <td class="label">*NOMBRES(S):</td>
+                            <td class="labelR">*NOMBRES(S):</td>
                             <td><input type="text"></td>
                             <td><a href="#"><img src="./IconosMusic/sound.png" height="18" alt="sound"></a></td>
                         </tr>
                         <tr>
-                            <td class="label">*APELLIDO PATERNO:</td>
+                            <td class="labelR">*APELLIDO PATERNO:</td>
                             <td><input type="text"></td>
                             <td><a href="#"><img src="./IconosMusic/sound.png" height="18" alt="sound"></a></td>
                         </tr>
                         <tr>
-                            <td class="label">APELLIDO MATERNO:</td>
+                            <td class="labelR">APELLIDO MATERNO:</td>
                             <td><input type="text"></td>
                             <td><a href="#"><img src="./IconosMusic/sound.png" height="18" alt="sound"></a></td>
                         </tr>
                         <tr>
-                            <td class="label">*CORREO:</td>
+                            <td class="labelR">*CORREO:</td>
                             <td><input type="email"></td>
                             <td><a href="#"><img src="./IconosMusic/sound.png" height="18" alt="sound"></a></td>
                         </tr>
                         <tr>
-                            <td class="label">*NOMBRE USUARIO:</td>
+                            <td class="labelR">*NOMBRE USUARIO:</td>
                             <td><input type="text"></td>
                             <td><a href="#"><img src="./IconosMusic/sound.png" height="18" alt="sound"></a></td>
                         </tr>
                         <tr>
-                            <td class="label">*CONTRASEÑA:</td>
+                            <td class="labelR">*CONTRASEÑA:</td>
                             <td><input type="password"></td>
                         </tr>
                         <tr>
-                            <td class="label">*REPETIR CONTRASEÑA:</td>
+                            <td class="labelR">*REPETIR CONTRASEÑA:</td>
                             <td><input type="password"></td>
                         </tr>
                     </table>
