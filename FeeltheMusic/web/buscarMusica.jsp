@@ -14,20 +14,51 @@
         <title>Buscar Música</title>
     </head>
     <body>
-        <div>
-
-        </div>
-        <div>
-
-        </div>
-        <div>
-
-        </div>
+        <div id="Buscar">
+         <br>
+            <br>
+            <header>            
+                        <p>feel The Music</p>          
+        </header>          
+        <br>
+        <br>
+        <br>
+        <br>
+        <section>
+                      
+            <br>            
+            <br>
+            
+            </form>
+            <br>
+            <br>
+        </section>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
         <footer>
-            <img alt="facebook" class="red" src="./IconosMusic/fb-10.png"> &nbsp;&nbsp;&nbsp;        
-            <img alt="twitter" class="red" src="./IconosMusic/twitter_icon.png"> &nbsp;&nbsp;
-            <img alt="google" src="./IconosMusic/google_icon.gif">&nbsp;&nbsp;&nbsp;
+            <img alt="facebook" class="red" src="./IconosMusic/fb-10.png" /> &nbsp;&nbsp;&nbsp;        
+            <img alt="twitter" class="red" src="./IconosMusic/twitter_icon.png" />&nbsp;&nbsp;&nbsp;
+            <img alt="google" src="./IconosMusic/google_icon.gif" />&nbsp;&nbsp;&nbsp;
             <p>@2016 Team Rocket Inc.</p>
         </footer>
+    </div>
     </body>
 </html>

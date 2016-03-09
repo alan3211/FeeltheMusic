@@ -7,6 +7,15 @@
    color: #FFF; 
    background-repeat: no-repeat;       
 }
+#Buscar{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 1366px;
+    height: 900px;       
+   background-image:url("../IconosMusic/fondo6.jpeg");    
+   color: #FFF; 
+   background-repeat: no-repeat;       
+}
 
 header p{
     text-align: center;    
