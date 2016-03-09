@@ -1,7 +1,10 @@
-body{
-    background-image:url("../IconosMusic/fondo6.jpg");    
-   color: #FFF;
-   background-attachment: scroll;
+#Contenedor{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 1366px;
+    height: 900px;       
+   background-image:url("../IconosMusic/fondo6.jpg");    
+   color: #FFF; 
    background-repeat: no-repeat;       
 }
 
@@ -31,9 +34,17 @@ footer img{
      width: 50px;
      height: 50px;
 }
+.red{
+     width: 40px;
+     height: 40px;
+}
+footer p{
+    font-family: "Arial";
+    font-weight: bolder;
+}
 
 section{
-    font-family: "Arial Rounded MT Bold";
+    font-family: "Arial";
     text-align: center;
     font-size: 50px;
     font-weight: bolder;
@@ -44,7 +55,7 @@ section{
     height: 70px;
     text-align: center;
     color: #000;
-    font-family: "Arial Rounded MT Bold";
+    font-family: "Arial";
     font-size: xx-large;
     font-weight: bolder;
     border: none;
