@@ -15,15 +15,22 @@
         <link href="./css/estilos.css" rel="stylesheet" type="text/css"/>                
     </head>
     <body>
-        <header>
-            
-        </header>
+        <div id="contenedorlogin">
+            <br>
+            <br>
+            <header id="encabezado">
+                <p>feel The Music</p>
+            </header>
         
-        <section>
-            <div id = "">
-                
-                
-            </div>
+            <section id="fondo">
+            <p id="logo">Ingresar</p>
+            <form method="POST" action="#" name="siguiente">
+                <p class="user">USUARIO: </p> <input type="text" id="usuario">
+                <img alt="bocina" src="IconosMusic/sound.png">
+                <p class="user">CONTRASE&Ntilde;A: </p> <input type="password" id="pass">
+                <input type="submit" id="aceptar" value="Aceptar">
+                <input type="button" class = "boton" value="Registrarse" onClick="document.siguiente.action='Servlet'; document.siguiente.submit();">
+            </form>
         </section>
         
         <footer>
@@ -32,5 +39,6 @@
             <img alt="google" src="./IconosMusic/google_icon.gif" />&nbsp;&nbsp;&nbsp;
             <p>@2016 Team Rocket Inc.</p>
         </footer>
+    </div>
     </body>
 </html>
