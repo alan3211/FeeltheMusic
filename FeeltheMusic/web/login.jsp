@@ -19,15 +19,18 @@
             <br>
             <br>
             <header id="encabezado">
-                <p>feel The Music</p>
+                <img alt="logo" src="./IconosMusic/feel.png" id="logoimg">
             </header>
         
             <section id="fondo">
-            <p id="logo">Ingresar</p>
+            <br>           
+            <p id="logito">Ingresar</p>
             <form method="POST" action="#" name="siguiente">
-                <p class="user">USUARIO: </p> <input type="text" id="usuario">
-                <img alt="bocina" src="IconosMusic/sound.png">
-                <p class="user">CONTRASE&Ntilde;A: </p> <input type="password" id="pass">
+                <p class="user">USUARIO: </p> 
+                <input type="text" id="usuario">
+                <img alt="bocina" src="IconosMusic/sound.png" id="bocina">
+                <p class="user">CONTRASE&Ntilde;A: </p>
+                <input type="password" id="pass">
                 <input type="submit" id="aceptar" value="Aceptar">
                 <input type="button" class = "boton" value="Registrarse" onClick="document.siguiente.action='Servlet'; document.siguiente.submit();">
             </form>
