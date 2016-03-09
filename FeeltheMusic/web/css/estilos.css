@@ -1,31 +1,75 @@
 body{
-    background: #000;    
+    background: #ECF0F1;
 }
 
-#contenedorlogin{
-    margin: 0 auto;
+#contenedorlogin{     
+     margin: 0 auto;
     padding: 0 auto;
     width: 1366px;
-    height: 900px;       
+    height: 900px;   
+   margin: 0 auto;   
 }
 
+#logoimg{
+    width: 150px;
+    height: auto;
+}
+
+#bocina{
+      width: 50px;
+      height: auto;
+      position: relative;
+      left: 60px;
+      top: 10px;
+}
 .user{
     color: #226FDB;
     font-family: "Miso Light";
     font-weight: 900;
+    text-align: left;        
 }
+
+#aceptar{
+     width: 240px;
+    height: 50px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Century Gothic";
+    font-size: xx-large;
+    font-weight: bolder;
+    border: none;
+    border-radius: 15px;
+    background: #4C4B47;
+    position: relative;
+    left: 110px;    
+}
+
+#registrate{
+    width: 240px;
+    height: 50px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Century Gothic";
+    font-size: xx-large;
+    font-weight: bolder;
+    border: none;
+    border-radius: 15px;
+    background: #0B3067;
+    position: relative;
+    left: 380px;    
+}
+
 #fondo{
     background: #FFF;
+    height: 600px;
 }
 
 #encabezado{
     background: #242426;    
     width: auto;
-    height: 150px; 
-    display: block;
+    height: 100px;     
     text-align: left;
 }
-
 #Contenedor{
     margin: 0 auto;
     padding: 0 auto;
@@ -62,15 +106,39 @@ header p{
 }
 
 #logito{
-    text-align: left;    
+    text-align: center;    
     color:#000;   
     font-family: "Miso Light";
-    font-size: 40px;
+    font-size: 80px;
     font-weight: bolder;    
-    width: 300px;
-    height: 50px;
+    width: 600px;
+    height: 90px;
     margin: 0 auto;
+    border-bottom-color: #000; 
+    border-top-color: #000;
+    border-bottom-style: solid;
+    border-top-style: solid;       
+}
 
+#usuario{    
+    background: #E8DCE8;        
+    width: 300px;
+    height: 65px;        
+    border-style: none;
+    border-radius: 15px;
+    position: relative;  
+    left: 60px;
+    top: -10px;
+}
+
+#pass{
+     background: #E8DCE8;        
+    width: 300px;
+    height:65px;        
+    border-style: none;
+    border-radius: 15px;
+    position: relative;        
+    top:-15px;
 }
 
 footer{
@@ -78,6 +146,7 @@ footer{
     width: auto;
     height: 100px;
     text-align: center;
+    color: #FFF;
 }
 
 footer img{

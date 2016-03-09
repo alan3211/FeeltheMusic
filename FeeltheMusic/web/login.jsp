@@ -19,20 +19,24 @@
             <br>
             <br>
             <header id="encabezado">
-                <p>feel The Music</p>
+                <img alt="logo" src="./IconosMusic/feel.png" id="logoimg">
             </header>
         
             <section id="fondo">
-            <p id="logo">Ingresar</p>
+            <br>           
+            <p id="logito">Ingresar</p>
             <form method="POST" action="#" name="siguiente">
-                <p class="user">USUARIO: </p> <input type="text" id="usuario">
-                <img alt="bocina" src="IconosMusic/sound.png">
-                <p class="user">CONTRASE&Ntilde;A: </p> <input type="password" id="pass">
+                <br>               
+                <span class="user">USUARIO: </span> <input type="text" id="usuario">
+                <a href="#"><img alt="bocina" src="IconosMusic/sound.png" id="bocina"></a><br>
+                <span class="user">CONTRASE&Ntilde;A: </span> <input type="password" id="pass"> <br>
                 <input type="submit" id="aceptar" value="Aceptar">
-                <input type="button" class = "boton" value="Registrarse" onClick="document.siguiente.action='Servlet'; document.siguiente.submit();">
+                <br>
+                <input type="button" id = "registrate" value="Registrarse" onClick="document.siguiente.action='Servlet'; document.siguiente.submit();">
+                <br>
+                <br>
             </form>
-        </section>
-        
+        </section>                     
         <footer>
               <img alt="facebook" class="red" src="./IconosMusic/fb-10.png" /> &nbsp;&nbsp;&nbsp;        
             <img alt="twitter" class="red" src="./IconosMusic/twitter_icon.png" />&nbsp;&nbsp;&nbsp;
