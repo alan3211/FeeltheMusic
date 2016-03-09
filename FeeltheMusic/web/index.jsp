@@ -15,23 +15,21 @@
         <link href="./css/estilos.css" rel="stylesheet" type="text/css"/>        
     </head>
     <body>
-        <header>
-
-        </header>
-
+        <header>            
+                        <p>feel The Music</p>          
+        </header>               
         <section>
             <p>
                     Una p&aacute;gina dise&ntilde;ada para ti.<br>
                     Escucha m&uacute;sica  gratis o compra<br>
                     canciones de tus artistas favoritos.                
-            </p>
-            <button id="acepta">Comenzar</button>
-        </section>
-
+            </p>               
+            <button id="acepta" onclick="#">COMENZAR</button>
+        </section>                                                                             
         <footer>
             <img alt="facebook" src="./IconosMusic/fb-10.png" />
             <img alt="twitter" src="./IconosMusic/twitter_icon.png" />
-            <img alt="google" src="./IconosMusic/google_icon.gif" />
+            <img alt="google"  src="./IconosMusic/google_icon.gif" />
             <p>@2016 Team Rocket Inc.</p>
         </footer>
     </body>
