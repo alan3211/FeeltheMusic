@@ -33,7 +33,7 @@
             </p>               
             <br>            
             <br>            
-            <button id="acepta" onclick="#">COMENZAR</button>
+            <button id="acepta" onclick="login">COMENZAR</button>
             <br>
             <br>
         </section>
