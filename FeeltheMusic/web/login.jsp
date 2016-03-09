@@ -22,12 +22,12 @@
                 <p>feel The Music</p>
             </header>
         
-        <section>
+            <section id="fondo">
             <p id="logo">Ingresar</p>
             <form method="POST" action="#" name="siguiente">
-                <p>USUARIO: </p> <input type="text" id="usuario">
+                <p class="user">USUARIO: </p> <input type="text" id="usuario">
                 <img alt="bocina" src="IconosMusic/sound.png">
-                <p>CONTRASE&Ntilde;A: </p> <input type="password" id="pass">
+                <p class="user">CONTRASE&Ntilde;A: </p> <input type="password" id="pass">
                 <input type="submit" id="aceptar" value="Aceptar">
                 <input type="button" class = "boton" value="Registrarse" onClick="document.siguiente.action='Servlet'; document.siguiente.submit();">
             </form>
