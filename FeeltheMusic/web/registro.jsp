@@ -15,6 +15,7 @@
     <body style="background: #FFF;">
         <div id="Contenedor" style="background-image: none;">
             <header id="encabezado">
+                <p>Hola que hace</p>
                 <img alt="logo" src="./IconosMusic/feel.png" id="logoimg">
             </header>
             <div class="formularioR">
